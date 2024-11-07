@@ -22,4 +22,4 @@ Select your environment for your kernel.
 
 
 The order in which you should read this unit is:
-1. unit-8-intro-to-neural-networks
+1. unit-8-cnns-rnns.ipynb
